@@ -1,10 +1,8 @@
 <h2 align="center">Hi, I'm <a href="https://yeasin-portfolio.web.app/">Yeasin<a> <img src="https://i.ibb.co/HtGR0xy/waving-hi.gif" width="30px" height="30px"></h1>
 <h3 align="center">Enthusiast Web Developer</h3>
 
-![Profile views](https://gpvc.arturio.dev/mdYeasin-cmd)
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using programming which impacts human life. I am coming here because of my passion and I want to do something remarkable with it. Have advanced knowledge about Frontend Development focused on React. Also have a comportable idea about the backend with node.
+  
 - 🔭 I’m currently working on **TypeScript**
 
 - 🌱 I’m currently learning **Next.js, Redux**
@@ -19,6 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/md-yeasin-b755141b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-yeasin-b755141b9" height="30" width="40" /></a>
 </p>
+  
+![Profile views](https://gpvc.arturio.dev/mdYeasin-cmd)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7511f6?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a9eb5?style=for-the-badge&logo=tailwindcss&logoColor=white)
