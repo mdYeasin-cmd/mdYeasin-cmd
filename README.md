@@ -9,11 +9,11 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 
 - 💬 Ask me about **Web Development, MERN Stack**
   
-- 💼 I’m open for **Web or Frontend or React or MERN Stack Developer Job**
+- 💼 I’m open for **Web | Frontend | React | MERN Stack Developer Job**
 
 - 📫 Feel free to talk with me **yeasin200011@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-yeasin-b755141b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-yeasin-b755141b9" height="30" width="40" /></a>
 </p>
