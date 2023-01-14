@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeasin</h1>
 <h3 align="center">Enthusiast Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyeasin-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="mdyeasin-cmd" /> </p>
+![Profile views](https://gpvc.arturio.dev/mdYeasin-cmd)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdyeasin-cmd" alt="mdyeasin-cmd" /></a> </p>
 
