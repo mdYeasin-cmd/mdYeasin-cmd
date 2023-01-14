@@ -3,15 +3,15 @@
 
 I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using programming which impacts human life. I am coming here because of my passion and I want to do something remarkable with it. Have advanced knowledge about Frontend Development focused on React. Also have a comportable idea about the backend with node.
   
-- 🔭 I’m currently working on **TypeScript**
+- 🔭 I’m currently working on **TypeScript, React.js, Node.js, MySQL**
 
-- 🌱 I’m currently learning **Next.js, Redux**
-
-- 👯 I’m looking to collaborate on **Opne Source Project**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Web Development, MERN Stack**
+  
+- 💼 I’m open for **Web or Frontend or React or MERN Stack Developer Job **
 
-- 📫 How to reach me **yeasin200011@gmail.com**
+- 📫 Feel free to talk with me **yeasin200011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
