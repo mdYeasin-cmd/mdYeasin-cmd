@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'am Yeasin
+### 👋, Hi, I'am Yeasin
 #### Enthusiast Web Developer
 Dedicated time spent building my career in the Web Development sector. Worked with HTML, CSS, JavaScript and JavaScript based libraries and frameworks. I completed some projects using mentioned technology which has many functionalities with eye catchy UI/UX.
 
