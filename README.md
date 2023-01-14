@@ -13,9 +13,11 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 
 - 📫 Feel free to talk with me **yeasin200011@gmail.com**
 
-<h3 align="left">Connect with me</h3>
+## 📱 Connect With Me
+  
 <p align="left">
 <a href="https://linkedin.com/in/md-yeasin-b755141b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-yeasin-b755141b9" height="30" width="40" /></a>
+
 </p>
   
 ![Profile views](https://gpvc.arturio.dev/mdYeasin-cmd)
