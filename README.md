@@ -3,13 +3,11 @@
 
 I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using programming which impacts human life. I am coming here because of my passion and I want to do something remarkable with it. Have advanced knowledge about Frontend Development focused on React. Also have a comportable idea about the backend with node.
   
-- 🔭 I’m currently working on **TypeScript, React.js, Node.js, MySQL**
+- 🔭 I’m currently working on **React.js, Node.js, Express, MySQL**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Advanced Web Development**
 
 - 💬 Ask me about **Web Development, MERN Stack**
-  
-- 💼 I’m open for **Web | Frontend | React | MERN Stack Developer Job**
 
 - 📫 Feel free to talk with me **yeasin200011@gmail.com**
 
@@ -52,4 +50,4 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyeasin-cmd&" alt="mdyeasin-cmd" /></p>
   
-![Profile views](https://gpvc.arturio.dev/mdYeasin-cmd)
+![Profile views](https://komarev.com/ghpvc/?username=mdYeasin-cmd&label=Profile%20views&color=008000&style=flat)
