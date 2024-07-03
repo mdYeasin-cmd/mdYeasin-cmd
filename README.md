@@ -1,8 +1,10 @@
+<img src="./images/2.png" alt="banner" />
+
 <h2 align="center">Hi, I'm <a href="https://yeasin-portfolio.web.app/" target="_blank">Yeasin<a> <img src="https://i.ibb.co/HtGR0xy/waving-hi.gif" width="30px" height="30px"></h1>
 <h3 align="center">Enthusiast Web Developer</h3>
 
 I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using programming which impacts human life. I am coming here because of my passion and I want to do something remarkable with it. Have advanced knowledge about Frontend Development focused on React. Also have a comportable idea about the backend with node.
-  
+
 - 🔭 I’m currently working on **React.js, Node.js, Express, MySQL**
 
 - 🌱 I’m currently learning **Advanced Web Development**
@@ -12,17 +14,26 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 - 📫 Feel free to talk with me **yeasin200011@gmail.com**
 
 ## 📱 Connect With Me
-  
+
 <p align="left">
 <a href="https://linkedin.com/in/md-yeasin-b755141b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-yeasin-b755141b9" height="30" width="40" /></a>
 
 </p>
   
 ## 💻 Tech Stack
-  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7511f6?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a9eb5?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<p align="center">
+<img src="./images/js.png" alt="js" width="30" height="30" />
+<img src="./images/ts.png" alt="js" width="30" height="30" />
+</p>
+<p align="center">
+<img src="./images/react.png" alt="js" width="30" height="30" />
+<img src="./images/nextjs.png" alt="js" height="30" />
+<img src="./images/redux.png" alt="js" width="30" height="30" />
+<img src="./images/mui.png" alt="js" width="30" height="30" />
+</p>
+
+<!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/MUI-2482ff?style=for-the-badge&logo=mui&logoColor=white)
@@ -42,7 +53,7 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FC427B?style=for-the-badge&logo=figma&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-833471?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-833471?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyeasin-cmd&show_icons=true&locale=en&layout=compact" alt="mdyeasin-cmd" /></p>
 
