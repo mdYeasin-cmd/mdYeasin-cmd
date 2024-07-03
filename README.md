@@ -37,15 +37,15 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 <img src="./images/wordpress.png" alt="js" width="40" height="40" />
 </p>
 <p align="center">
-<img src="./images/nodejs.png" alt="js" height="40" />
-<img src="./images/express.png" alt="js" height="40" />
-<img src="./images/nestjs.png" alt="js" height="40" />
-<img src="./images/mongodb.png" alt="js" width="40" height="35" />
-<img src="./images/mysql.png" alt="js" height="40" />
-<img src="./images/postgre.png" alt="js" width="40" height="40" />
-<img src="./images/mongoose.png" alt="js" height="40" />
-<img src="./images/sequelize.png" alt="js" height="40" />
-<img src="./images/prisma.svg" alt="js" height="40" />
+<img border="1px solid red" src="./images/nodejs.png" alt="js" height="40" />
+<img border="1px solid red" src="./images/express.png" alt="js" height="40" />
+<img border="1px solid red" src="./images/nestjs.png" alt="js" height="40" />
+<img border="1px solid red" src="./images/mongodb.png" alt="js" width="40" height="40" />
+<img border="1px solid red" src="./images/mysql.png" alt="js" height="40" />
+<img border="1px solid red" src="./images/postgre.png" alt="js" width="40" height="40" />
+<img border="1px solid red" src="./images/mongoose.png" alt="js" height="40" />
+<img border="1px solid red" src="./images/sequelize.png" alt="js" height="40" />
+<img border="1px solid red" src="./images/prisma.svg" alt="js" height="40" />
 </p>
 
 <!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
