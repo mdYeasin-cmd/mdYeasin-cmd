@@ -37,15 +37,23 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 <img src="./images/wordpress.png" alt="js" width="40" height="40" />
 </p>
 <p align="center">
-<img border="1px solid red" src="./images/nodejs.png" alt="js" height="40" />
-<img border="1px solid red" src="./images/express.png" alt="js" height="40" />
-<img border="1px solid red" src="./images/nestjs.png" alt="js" height="40" />
-<img border="1px solid red" src="./images/mongodb.png" alt="js" width="40" height="40" />
-<img border="1px solid red" src="./images/mysql.png" alt="js" height="40" />
-<img border="1px solid red" src="./images/postgre.png" alt="js" width="40" height="40" />
-<img border="1px solid red" src="./images/mongoose.png" alt="js" height="40" />
-<img border="1px solid red" src="./images/sequelize.png" alt="js" height="40" />
-<img border="1px solid red" src="./images/prisma.svg" alt="js" height="40" />
+<img src="./images/nodejs.png" alt="js" height="40" />
+<img src="./images/express.png" alt="js" height="40" />
+<img src="./images/nestjs.png" alt="js" height="40" />
+<img src="./images/mongodb.png" alt="js" width="40" height="40" />
+<img src="./images/mysql.png" alt="js" height="40" />
+<img src="./images/postgre.png" alt="js" width="40" height="40" />
+<img src="./images/mongoose.png" alt="js" height="40" />
+<img src="./images/sequelize.png" alt="js" height="40" />
+<img src="./images/prisma.svg" alt="js" height="40" />
+</p>
+
+<p align="center">
+<img src="./images/vscode.png" alt="js" height="40" />
+<img src="./images/postman.png" alt="js" height="40" />
+<img src="./images/linux.png" alt="js" height="40" />
+<img src="./images/terminal.png" alt="js" width="40" height="40" />
+<img src="./images/figma.png" alt="js" height="40" />
 </p>
 
 <!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -70,10 +78,12 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 ![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-833471?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 
+## 📊 Current Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyeasin-cmd&" alt="mdyeasin-cmd" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyeasin-cmd&show_icons=true&locale=en&layout=compact" alt="mdyeasin-cmd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdyeasin-cmd&show_icons=true&locale=en" alt="mdyeasin-cmd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyeasin-cmd&" alt="mdyeasin-cmd" /></p>
-  
 ![Profile views](https://komarev.com/ghpvc/?username=mdYeasin-cmd&label=Profile%20views&color=008000&style=flat)
