@@ -34,6 +34,7 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 <img src="./images/mui.png" alt="js" width="40" height="40" />
 <img src="./images/antd.png" alt="js" width="40" height="40" />
 <img src="./images/jquery.png" alt="js" width="40" height="40" />
+<img src="./images/wordpress.png" alt="js" width="40" height="40" />
 </p>
 <p align="center">
 <img src="./images/nodejs.png" alt="js" height="40" />
