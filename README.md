@@ -30,7 +30,21 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 <img src="./images/react.png" alt="js" width="30" height="30" />
 <img src="./images/nextjs.png" alt="js" height="30" />
 <img src="./images/redux.png" alt="js" width="30" height="30" />
+<img src="./images/tailwindcss.png" alt="js" width="30" height="30" />
 <img src="./images/mui.png" alt="js" width="30" height="30" />
+<img src="./images/antd.png" alt="js" width="30" height="30" />
+<img src="./images/jquery.png" alt="js" width="30" height="30" />
+</p>
+<p align="center">
+<img src="./images/nodejs.png" alt="js" height="30" />
+<img src="./images/express.png" alt="js" height="30" />
+<img src="./images/nestjs.png" alt="js" height="30" />
+<img src="./images/mongodb.png" alt="js" width="30" height="35" />
+<img src="./images/mysql.png" alt="js" height="30" />
+<img src="./images/postgre.png" alt="js" width="30" height="30" />
+<img src="./images/mongoose.png" alt="js" height="30" />
+<img src="./images/sequelize.png" alt="js" height="35" />
+<img src="./images/prisma.svg" alt="js" height="30" />
 </p>
 
 <!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
