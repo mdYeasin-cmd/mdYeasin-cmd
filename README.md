@@ -15,11 +15,11 @@ I'm Yeasin, a MERN Stack Web Developer. Try to solve real life problems using pr
 
 ## 📱 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/md-yeasin-b755141b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-yeasin-b755141b9" height="30" width="40" /></a>
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeasin200011@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdyeasin1)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MdYeasi67219745)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/874667456633905192)
 
-</p>
-  
 ## 💻 Tech Stack
 
 <p align="center">
